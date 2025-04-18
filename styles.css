@@ -1,0 +1,90 @@
+.upper 
+{
+    width: 500px;
+    height: 352px;
+    border: 2px, solid, black;
+}
+.a
+{
+    width: 500px;
+    height: 32px;
+    background-color:rgb(191, 10, 48) ;
+}
+.b
+{
+    width: 500px;
+    height: 32px;
+    background-color:rgb(255, 255, 255) ;
+}
+.c
+{
+    width: 500px;
+    height: 32px;
+    background-color:rgb(191, 10, 48) ;
+}
+.d 
+{
+    width: 500px;
+    height: 32px;
+    background-color: rgb(255, 255, 255) ;
+}
+.e
+{
+    width: 500px;
+    height: 32px;
+    background-color:rgb(191, 10, 48) ;
+}
+.f
+{
+    width: 500px;
+    height: 32px;
+    background-color:rgb(255, 255, 255) ;
+}
+.g
+{
+    width: 500px;
+    height: 32px;
+    background-color:rgb(191, 10, 48) ;
+}
+.h
+{
+    width: 500px;
+    height: 32px;
+    background-color:rgb(255, 255, 255) ;
+}
+.i
+{
+    width: 500px;
+    height: 32px;
+    background-color:rgb(191, 10, 48);
+}
+.j
+{
+    width: 500px;
+    height: 32px;
+    background-color:rgb(255, 255, 255) ;
+}
+.k
+{
+    width: 500px;
+    height: 32px;
+    background-color:rgb(191, 10, 48) ;
+}
+.flag
+{
+    border: 2px solid rgb(0, 40, 104);
+    height: 158px;
+    width: 200px;
+   background-color: rgb(0, 40, 104);
+   position: absolute;
+   top: 9px;
+   left: 9px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.img
+{
+    height: 100px;
+    width: 100px;
+}
